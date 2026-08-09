@@ -1,0 +1,51 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Application Output
+/output/
+*.log
+temp/
+.codecontext/cache/
+test_output*.txt
+build-error.log
+
+# Kotlin
+*.class
+*.jar
+!gradle-wrapper.jar
+*.kotlin_module
+
+# Sensitive Data
+local.properties
+secrets.properties
+.codecontext.json
