@@ -447,7 +447,7 @@ Fixed-bucket (not true sliding window). A client can burst 120 requests across a
 
 ---
 
-## 15. Resume-Ready Summary
+## 15. Summary
 
 > **All bullet points below are backed by real measurements in this document.**
 
